@@ -3,7 +3,7 @@ ACT-VIM
 
 Vim syntax plugin for [H]AC[K]T
 
-To install using '''pathogen''',
+To install using *pathogen*,
 
 ```
 cd ~/.vim/bundle/
